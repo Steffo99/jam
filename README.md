@@ -1,6 +1,6 @@
 <div align="center">
 
-![](media/cover.png)
+![](.media/cover.png)
 
 # Cinno's Delivery Service
 
